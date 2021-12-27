@@ -1,0 +1,29 @@
+*{margin: 0; padding: 0; box-sizing: border-box;
+font-family: 'Pushster', cursive;
+}
+body{
+background-image:linear-gradient(rgba(0,0,0,0.85),
+rgba(0,0,0,0.75)), url('../images/back-1.jpg');
+background-size: 100% 100% ;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+.head{
+background-color: #F0D290;
+}
+.navbar{
+background-color: #D06224;
+}
+.navbar-brand{
+color: black;
+}
+.navbar-brand:hover{
+color: black;
+}
+.cont-us h2{
+font-size: 6rem;
+}
+.navbar-toggler i{
+font-size: 2rem;
+}
